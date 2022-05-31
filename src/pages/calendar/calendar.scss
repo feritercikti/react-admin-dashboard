@@ -1,0 +1,11 @@
+.calendar {
+  display: flex;
+  width: 100%;
+  .container {
+    flex: 6;
+    .calendarContainer {
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}

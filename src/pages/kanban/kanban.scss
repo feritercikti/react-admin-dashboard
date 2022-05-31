@@ -1,0 +1,12 @@
+.kanban {
+  display: flex;
+  width: 100%;
+  .container {
+    flex: 6;
+    .kanbanContainer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}

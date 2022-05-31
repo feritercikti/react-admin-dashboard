@@ -1,0 +1,15 @@
+.line {
+  display: flex;
+  width: 100%;
+  .container {
+    flex: 6;
+    .title {
+      font-size: 24px;
+      margin: 15px;
+    }
+    .lineContainer {
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
